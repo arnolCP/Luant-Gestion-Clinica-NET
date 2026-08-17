@@ -2,7 +2,7 @@
 
 Sistema integral de gestión odontológica desarrollado con arquitectura monolítica modular multicapa. Diseñado para optimizar los procesos operativos de admisión, historias clínicas y facturación.
 
-🔗 **[Ver Sistema en Producción (Live Demo)](http://proyfinal.somee.com/)**
+**[Ver Sistema en Producción (Live Demo)](http://proyfinal.somee.com/)**
 *(Desplegado en Somee.com con base de datos MS SQL)*
 
 ## Tecnologías y Arquitectura
